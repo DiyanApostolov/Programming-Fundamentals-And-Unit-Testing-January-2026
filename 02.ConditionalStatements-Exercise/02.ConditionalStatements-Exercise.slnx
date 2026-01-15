@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="01.NumberType/01.NumberType.csproj" />
+  <Project Path="02.ATM/02.ATM.csproj" Id="2160a5d0-dcd4-4e20-a1e7-d579a88f91e2" />
+  <Project Path="03.BiggestOfFiveNumbers/03.BiggestOfFiveNumbers.csproj" Id="805d7533-78b1-422a-b68a-41da3cdb5728" />
+  <Project Path="04.NumberOperations/04.NumberOperations.csproj" Id="b7993cb2-61c1-438f-8b33-2c3b620e4074" />
+  <Project Path="05.VacationExpenses/05.VacationExpenses.csproj" Id="de29fac1-c793-4913-b8d6-961aefeb9410" />
+  <Project Path="06.ProductOfThreeNumbers/06.ProductOfThreeNumbers.csproj" Id="306e9b7b-345d-4de0-8afd-3aac99640fef" />
+  <Project Path="07.WorkingHours/07.WorkingHours.csproj" Id="b37b5906-59ab-4633-b07d-dc60912a5916" />
+  <Project Path="08.FruitОrVegetable/08.FruitОrVegetable.csproj" Id="b3300d7a-42ec-40dc-9af3-56580b07f50a" />
+  <Project Path="09.SumSeconds/09.SumSeconds.csproj" Id="ef9b7b4b-abbd-4285-89df-eb39e8d63260" />
+  <Project Path="10.SummerOutfit/10.SummerOutfit.csproj" Id="ca7851ad-6d68-4949-a93f-d2d7841ed372" />
+</Solution>
